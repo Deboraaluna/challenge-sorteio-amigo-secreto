@@ -30,7 +30,7 @@ _(.assets/inicial.png)_
 
 1️⃣ Clone este repositório:
 ```bash
-  git clone https://github.com/seu-usuario/amigo-secreto.git
+  git clone https://github.com/Deboraaluna/challenge-sorteio-amigo-secreto.git
 ```
 
 2️⃣ Acesse a pasta do projeto:
